@@ -1,0 +1,4 @@
+
+Scaffold-DbContext 'Data Source=.;Initial Catalog=showroom;User ID=sa;Password=aptech' Microsoft.EntityFrameworkCore.SqlServer Scaffold-DbContext-ContextDir Data -OutputDir Models 
+
+Scaffold-DbContext 'Data Source=.;Initial Catalog=showroom;User ID=sa;Password=aptech;Initial Catalog=showroom' Microsoft.EntityFrameworkCore.SqlServer
